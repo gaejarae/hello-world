@@ -1,6 +1,6 @@
-blue
-red
-yellow
-magenta
-beige
-pinkkkkkkkkkkk
+Blue
+Red
+Yellow
+Magenta
+Beige
+Pinkkkkkkkkkkk
